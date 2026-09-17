@@ -26,6 +26,7 @@ Claude Code를 몇 달 쓰면 지침 파일(CLAUDE.md)과 메모리가 불어납
 | `README.md` | 사람 | 이 문서 |
 | `AI-GUIDE.md` | Claude | 절차, 금지 사항, 검사 기준, 실제로 겪은 함정 |
 | `reference/claude_env_check.py` | Claude가 실행 | 정리 상태를 점수로 보여 주는 검사 도구 |
+| `LICENSE` | 사람 | 라이선스 (CC BY 4.0) |
 
 ## 시작하는 법
 
@@ -150,3 +151,11 @@ prune은 이미 있는 지침을 제자리에 옮기는 도구입니다. 지침�
 | 묻는 것 | 지침이 제자리에 있나 | 지침에 빠진 것이 있나 |
 | 하는 일 | 옮기고 검사한다 (승인받아 실행) | 읽고 제안한다 (실행하지 않음) |
 | 쓰는 때 | 지침이 길어졌을 때, 이후 월 1회 검사 | 정리가 끝난 뒤, 새 종류의 일을 시작할 때 |
+
+## License
+
+**CC BY 4.0** (Creative Commons Attribution 4.0 International) — 이 저장소의 모든 내용(`reference/claude_env_check.py` 포함). 자세한 내용은 [LICENSE](LICENSE)를 보세요.
+
+Copyright (c) 2026 aithen-kang
+
+자유롭게 쓰고 고쳐서 다시 배포해도 됩니다. 다시 배포할 때는 출처를 밝혀 주세요.
